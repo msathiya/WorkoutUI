@@ -1,0 +1,45 @@
+.header{
+   
+    padding: 10px;
+    font-size: 30px;
+    border-bottom: 2px solid;
+    background-color: #035b80;
+    font-weight: bold;
+    color: white;
+    height:10%;
+    width:100%;
+    position: fixed;
+    
+    
+}
+
+
+.project-name
+{
+    float: left;
+    width:90%;
+    font-family: "Times New Roman", Times, serif;
+    font-style: bold;
+    padding:10px;
+    text-align: center;
+}
+.logout
+{
+    float:right;
+    width:10%;
+    font-style: bold;
+    margin-top:-10px;
+    padding:10px;
+}
+
+/* header{
+height: 35px;
+width: 43%;
+float: left;
+color: #fff;
+font-size: 20px;
+position: relative;
+margin-top: 2px;
+outline-style: none;
+text-align: center;
+} */

@@ -1,0 +1,76 @@
+
+.panel
+{
+    
+     width: 50%;
+    margin:0 auto;
+    border: 3px solid green;
+    border-color: #FFFFFF;
+    border-radius: 5px;
+  margin-top:10%;
+  margin-bottom:10%;
+
+   
+}
+button {
+    background-color:#17a2b8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+    }
+
+    .inner-addon {
+        position: relative;
+      }
+    
+      /* style glyph */
+      .inner-addon .glyphicon {
+        position: absolute;
+        padding: 10px;
+        pointer-events: none;
+                
+          }
+   
+      
+      /* align glyph */
+      .left-addon .glyphicon  { left:  0px;}
+      .right-addon .glyphicon { right: 0px;}
+      
+      /* add padding  */
+      .left-addon input  { padding-left:  30px; }
+      .right-addon input { padding-right: 30px; }
+      
+      
+      
+      body {
+        margin: 10px;
+      }
+      /* .main-container
+      {
+          height:50px;
+          width:100%;
+          background-color: "#000000"
+      } */
+.form-control
+{
+    font-size: 15px;
+}
+
+.input-group-addon{
+    padding-right : 25px;
+}
+
+.input-group
+{
+margin-bottom:30px;
+} 
+.panel-heading{
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
